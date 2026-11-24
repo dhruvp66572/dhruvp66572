@@ -1,147 +1,116 @@
-# 👋 Hi, I'm Dhruv Prajapati
+<div align="center">
 
-📬 Reach me at: **dhruvprajapati.ce@gmail.com**  
+# Hi there, I'm Dhruv Prajapati 👋
 
----
+### AI Engineer & Software Developer
 
-## 🚀 About Me
+Building **production AI Voice Agents**, **Agentic Workflows**, and **full-stack web & mobile products** that solve real-world business problems.
 
-I'm a passionate **Full Stack Web Developer** and a Computer Engineering student at **CHARUSAT**, with a strong foundation in building scalable, efficient applications. I love crafting meaningful projects and exploring cutting-edge technologies.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-prajapati-088721260)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvprajapati66572@gmail.com)
+[![Google Play](https://img.shields.io/badge/BillPilot_on_Play_Store-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.dhruvp66572.billpilot)
+[![TacoDesk](https://img.shields.io/badge/TacoDesk_Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tacodesk.vercel.app/)
 
-- 🌟 **Driven Developer:** I enjoy solving real-world problems with clean, efficient code.  
-- 🧩 **Full Stack & DevOps Enthusiast:** From frontend designs to backend logic and CI/CD pipelines, I love working across the stack.  
-- 🛠️ **Tech Explorer:** Always eager to dive into new tools, frameworks, and concepts to level up my skills.  
-- 🤝 **Team Player:** I thrive in collaborative environments and believe knowledge grows when shared.  
-- 🎯 **Current Focus:** Building AI-powered interview preparation platforms and real-time collaboration tools.  
-
-If you're interested in collaborating, have an opportunity, or just want to chat tech — feel free to connect!
+</div>
 
 ---
 
-## 💻 Skills & Technologies
+## 👨‍💻 About Me
 
-### **Languages**
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-</p>
-
-### **Frontend Development**
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> 
-</p>
-
-### **Backend Development**
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET Core" width="40" height="40"/> 
-</p>
-
-### **Databases**
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="40" height="40"/> 
-</p>
-
-### **Tools & Technologies**
-
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="Jenkins" width="40" height="40"/> 
-</p>
-
-### **Web Hosting & Deployment**
-
-<p align="left">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> 
-<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/> 
-</p>
+- 🔭 **Currently working as:** AI Engineer / Software Developer at **Aivoranext** (Ahmedabad, India)
+- 🎙️ **Focus Areas:** Real-time AI Voice Agents, Multi-step Agentic Workflows, Structured Tool Calling, FastAPI & WebSocket Streaming Microservices
+- 📱 **Shipped to Production:** Published **BillPilot** on the Google Play Store & **TacoDesk** Field Service ERP SaaS
+- 🎓 **Education:** B.Tech in Computer Engineering @ CHARUSAT (CGPA: 8.18)
+- 📫 **Reach me at:** [dhruvprajapati66572@gmail.com](mailto:dhruvprajapati66572@gmail.com)
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Products & Projects
 
-### 💧 [Paani Wale - Water Bottle Supply Billing System](http://128.199.19.208:3000/)
-
-A full-stack billing system for water bottle suppliers with secure authentication, customer management, and automated monthly billing.
-
-**Key Features:**  
-• Customer & order management  
-• Monthly bill generation  
-• Admin dashboard  
-• Fully responsive design  
-• Secure login system  
-• Dockerized & deployed on DigitalOcean  
-
-**Demo Credentials:**  
-`Username / Mobile:` **9909066572**  
-`Password:` **Admin@1234**  
-
-🌐 **[Live Demo](http://128.199.19.208:3000/)**  
-🎥 **[Video Demo](https://drive.google.com/file/d/1NMGVbgh0O2knTAu6EewOdSkcvB0FXC0n/view?usp=sharing)**  
-
----
-
-### 🎯 [VirtuMate - Virtual Event Management Platform](https://github.com/dhruvp66572) *(In Progress)*
-
-A real-time platform for managing virtual events with features like:  
-• Live meetings using WebRTC  
-• Role-based access for hosts and attendees  
-• Chat and real-time interactions  
-• Built with MERN stack, LiveKit, and Socket.io  
-
----
-
-### ⚡ [TempSync - Real-Time File & Clipboard Sharing](https://github.com/dhruvp66572/TempSync)
-
-A MERN stack web app for fast, real-time text, file, and clipboard sharing across devices.
-
----
-
-## 🏅 Certifications
-
-- AWS Academy Cloud Developing  
-- Using MongoDB with Node.js - MongoDB Inc.  
-- IBM SkillsBuild - Build Your First Chatbot  
-- NPTEL - Joy of Computing with Python  
-
----
-
-## 📫 Let's Connect
-
-<p align="left">
-<a href="https://linkedin.com/in/dhruv-prajapati-088721260" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/dhruv_p_572" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://instagram.com/dp__572" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dhruvp66572" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-<a href="https://leetcode.com/dhruv_prajapati_572" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://play.google.com/store/apps/details?id=com.dhruvp66572.billpilot">BillPilot – Voice Billing App</a></h3>
+      <p><b>Live on Google Play Store</b> • Commercial voice-enabled mobile billing & invoicing app for merchants.</p>
+      <ul>
+        <li>Voice-assisted hands-free itemized billing</li>
+        <li>Razorpay payments & dynamic UPI QR codes</li>
+        <li>Automated PDF invoices (PDFKit) & WhatsApp bill sharing</li>
+      </ul>
+      <p><code>React Native (Expo)</code> <code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Prisma</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ <a href="https://tacodesk.vercel.app/">TacoDesk – Field Service ERP</a></h3>
+      <p><b>Live SaaS Portal</b> • Operations & Field Service ERP platform for service businesses.</p>
+      <ul>
+        <li>Complaint & ticket assignment with Google Maps GPS & 1-tap calling</li>
+        <li>Two-tier verified parts billing & atomic warehouse stock ledger</li>
+        <li>Thermal/A4 invoicing, dynamic UPI QR & WhatsApp dispatch</li>
+      </ul>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Tailwind CSS</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💧 Paani Wale – CRM & Billing</h3>
+      <p>Automated distribution CRM & billing system handling 100+ monthly enterprise orders.</p>
+      <ul>
+        <li>Dynamic PDF invoice generation in under 2 seconds</li>
+        <li>Razorpay integration & automated WhatsApp order alerts</li>
+        <li>Containerized microservices with CI/CD pipelines</li>
+      </ul>
+      <p><code>React.js</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Docker</code> <code>Jenkins</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🥗 Swasthify – AI Health & Wellness</h3>
+      <p>AI-driven personalized health, diet, and fitness platform.</p>
+      <ul>
+        <li>Meal-image upload with automated nutritional & calorie analysis (&lt;20s)</li>
+        <li>Personalized diet & workout recommendation engine</li>
+        <li>Role-based auth & interactive wellness dashboards</li>
+      </ul>
+      <p><code>Next.js</code> <code>Python</code> <code>FastAPI</code> <code>MongoDB</code> <code>Tailwind CSS</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌐 Portfolio
+## 🛠️ Tech Stack
 
-👉 **[Visit My Portfolio](https://dhruvprajapati.tech)**
+### AI, Voice & Orchestration
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit_Voice-111827?style=flat-square&logo=webrtc&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+### Languages, Frontend & Mobile
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native_Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Backend, Databases & DevOps
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 
 ---
 
-**Let's build, learn, and grow together! 🚀**
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvp66572&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvp66572&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</div>
